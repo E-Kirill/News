@@ -1,0 +1,43 @@
+.header button{
+    width: 90%;
+    margin-left: 5%;
+    padding: 10px;
+    background-color: #ECECE9;
+    text-align: center;
+    font-size: 38px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.search input{
+    margin-left: 5%;
+    margin-top: 10px;
+    width: 90%;
+    padding: 0px;
+    border-radius: 10px; 
+    padding-top: 5px; 
+    padding-bottom: 5px;
+    font-weight: 25;
+}
+
+ input,textarea{
+    margin-left: 5%;
+    width: 90%;
+    resize: none;
+}
+
+.inputForm button{
+    width: 90%;
+    padding: 5px;
+    font-size: 20px;
+    color: blue;
+}
+
+#eform button{
+    width: 90%;
+    padding: 5px;
+    font-size: 20px;
+    color: green;
+    margin-left: 5%; 
+}
+
